@@ -1,7 +1,7 @@
 const axios = require('axios');
 
 
-const urls = ['https://pg-app-backend-7pq9.onrender.com'];
+const urls = ['https://pg-app-backend-7pq9.onrender.com','https://jarvis-acsia-teams.onrender.com','https://jarvis-acsia.onrender.com'];
 
 async function ping() {
   try {
