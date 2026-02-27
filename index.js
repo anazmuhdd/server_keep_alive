@@ -11,7 +11,7 @@ async function ping() {
       console.log(`[Keepalive] Ponged ${url} with status ${response.status}`);
     }
   } catch (error) {
-    console.error(`[Keepalive] Failed to ping:`, error.message);
+    console.error(`[Keepalive] Failed to ping:`, error.message, url);
   }
 }
 ping();
