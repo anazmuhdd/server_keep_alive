@@ -3,7 +3,7 @@ const axios = require('axios');
 // Your target Render service URLs
 const urls = [
   'https://pg-app-backend-7pq9.onrender.com',
-  'https://jarvis-acsia-teams.onrender.com',
+  'https://jarvis-acsia-a880.onrender.com',
   'https://jarvis-acsia.onrender.com'
 ];
 
